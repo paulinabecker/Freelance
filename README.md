@@ -1,0 +1,13 @@
+Nombre del proyecto: Freelance
+
+Proyecto individual
+
+Proyecto finalizado
+
+Acceso al proyecto: https://github.com/paulinabecker/Freelance
+
+Descripción: 
+
+Proyecto de desarrollo web freelance básico que incluye diseño y desarrollo de aplicaciones web y e-commerce. El proyecto utiliza tecnologías HTML5 y CSS. CSS Flexbox y Grid. Diseño responsivo.
+
+ 
