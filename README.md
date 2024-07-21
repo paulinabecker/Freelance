@@ -4,7 +4,11 @@ Proyecto individual
 
 Proyecto finalizado
 
-Acceso al proyecto: https://github.com/paulinabecker/Freelance
+Acceso al proyecto GitHub: https://github.com/paulinabecker/Freelance
+
+Acceso al proyecto Netlify: https://servicios-freelancer-paulina-becker.netlify.app
+
+
 
 Descripción: 
 
